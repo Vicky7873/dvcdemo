@@ -1,0 +1,4 @@
+[core]
+    remote = local_folder_dvc
+['remote "local_folder_dvc"']
+    url = ../Desktop/Projects/Local_folder_dvc
